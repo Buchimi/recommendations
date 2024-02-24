@@ -1,1 +1,3 @@
 implicit
+pandas
+h5py
